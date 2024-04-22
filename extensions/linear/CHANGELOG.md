@@ -1,6 +1,6 @@
 # Linear Changelog
 
-## [Improvements] - 2024-04-17
+## [Improvements] - 2024-04-22
 
 - Add pagination when searching issues
 - Rename "Assigned Issues" to "My Issues"
